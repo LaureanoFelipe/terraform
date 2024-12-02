@@ -12,3 +12,6 @@ build/
 
 # Ignorar arquivos sensíveis
 .env
+
+# Ignorar chaves .pem
+*.pem

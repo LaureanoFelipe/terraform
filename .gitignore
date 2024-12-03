@@ -15,3 +15,6 @@ build/
 
 # Ignorar chaves .pem
 *.pem
+
+# Ignorar chaves .pub
+*.pub
